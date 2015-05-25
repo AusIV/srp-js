@@ -2,7 +2,7 @@
 
 This project was imported from Google Code before Google Code went dark. I wrote this in college to explore the concept of SRP, but it should **NOT** be trusted to secure your application. Relying on JavaScript to secure your application is very fallible, as you still have to trust the communication channels delivering the JavaScript.
 
-**Original Description **
+**Original Description**
 Many websites today require some form of authentication to access the site's full functionality. Unfortunately, many of these websites do not use secure authentication protocols.
 
 In some cases, websites will store user passwords in their database. If the database ever becomes compromised, an attacker could authenticate as any user he wanted.
